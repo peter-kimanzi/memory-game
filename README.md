@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a game used to test you memory. Match the emojis on the card to win.
+This is a game used to test you memory. Match the emojis on the card to win
 
 ## Technologies Used
 * HTML
